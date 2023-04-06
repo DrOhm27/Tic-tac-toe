@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668381723 source:c:\users\almir mujanovic\desktop\iks oks\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
+1668419038 source:d:\iks oks\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
